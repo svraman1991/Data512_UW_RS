@@ -22,17 +22,11 @@ This is present in the root folder of this repo and it contains the list of film
 ## Intermediate Data files:
 
 As part of the code, CSV files of the data pulled were created, these are present under the CSV_Files folder: 
-1) Desktop_Page_Views.csv
+1) Desktop_Page_Views.csv: This file has the output of the data pull for the desktop views of the movie list
    
-   a) This file has the output of the data pull for the desktop views of the movie list
-   
-2) Mobile_App_Page_Views.csv
- 
-   a) This file has the output of the data pull for the mobile app views of the movie list
+2) Mobile_App_Page_Views.csv: This file has the output of the data pull for the mobile app views of the movie list
 
-3) Mobile_Web_Page_Views.csv
-    
-   a) This file has the output of the data pull for the mobile web views of the movie list
+3) Mobile_Web_Page_Views.csv: This file has the output of the data pull for the mobile web views of the movie list
 
 ## Final Output files:
 The final output is split across 2 folders: Pageviews and Images. Pageviews has the JSON file outputs for desktop and mobile and a cumulative view for the movies
@@ -48,14 +42,14 @@ Folder name: Images
 This folder has the image output of 3 visual analyses performed as part of this project.
 Files: 
 
-1) avg_max_min
+1) avg_max_min: 
 This graph is a time series representation for the articles with the highest average monthly page requests and the lowest average monthly page requests across both desktop and mobile interfaces.
 
-2) top10_fewest
+2) top10_fewest: 
 This graph is a time series representation of the top 10 article pages by peak page views across access type. 
 The graph visualizes the top 10 items for desktop as well as the combined mobile access
 
-3) top10_peaks 
+3) top10_peaks:
 This graph represents those movies that have the fewest months of available data for the most recent academy award winners.
 The graph is a top 10 list of movies with the fewest months of data for both desktop and mobile access.
 
