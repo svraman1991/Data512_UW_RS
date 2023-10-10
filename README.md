@@ -47,7 +47,7 @@ Files:
 This graph is a time series representation for the articles with the highest average monthly page requests and the lowest average monthly page requests across both desktop and mobile interfaces.
 
 2) top10_fewest
-This graph should is a time series representation of the top 10 article pages by peak page views across access type. 
+This graph is a time series representation of the top 10 article pages by peak page views across access type. 
 The graph visualizes the top 10 items for desktop as well as the combined mobile access
 
 3) top10_peaks 
