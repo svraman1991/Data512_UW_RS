@@ -23,11 +23,16 @@ This is present in the root folder of this repo and it contains the list of film
 
 As part of the code, CSV files of the data pulled were created, these are present under the CSV_Files folder: 
 1) Desktop_Page_Views.csv
+   
    a) This file has the output of the data pull for the desktop views of the movie list
-3) Mobile_App_Page_Views.csv
-   b) This file has the output of the data pull for the mobile app views of the movie list
-5) Mobile_Web_Page_Views.csv 
-   c) This file has the output of the data pull for the mobile web views of the movie list
+   
+2) Mobile_App_Page_Views.csv
+ 
+   a) This file has the output of the data pull for the mobile app views of the movie list
+
+3) Mobile_Web_Page_Views.csv
+    
+   a) This file has the output of the data pull for the mobile web views of the movie list
 
 ## Final Output files:
 The final output is split across 2 folders: Pageviews and Images. Pageviews has the JSON file outputs for desktop and mobile and a cumulative view for the movies
